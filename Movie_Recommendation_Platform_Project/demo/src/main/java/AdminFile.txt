@@ -1,0 +1,4 @@
+adminNou,1admin
+admin,123
+ADMIN,111
+Admin,Admin!
