@@ -3,9 +3,7 @@ Un user poate aprecia filme dintr-un dataset dispoinibil (fisier). Apoi pe baza 
 
 Feed-ul initial (cand nu a areciat nici un film) este compus din filme aleatorii. Apo pe baza aprecierilor se vor aduaga la inceputul listei filme noi asemanatoare cu cele apreciate.
 
-Aplicatia prezinta o interfata grafica care se deschide cu o pagina de Login/Register. Aici putem alege dintre două tipuri de utilizatoi, care au roluri diferite:
--	Admin
--	User
+Aplicatia prezinta o interfata grafica care se deschide cu o pagina de Login/Register. Aici putem alege dintre două tipuri de utilizatori (Admin / User), care au roluri diferite:
 
 Admin:
 -	Poate dauga filme in fisier
