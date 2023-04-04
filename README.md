@@ -1,4 +1,4 @@
-# Movie-Recommendation-Platform
+# Platforma de recomandat filme
 Un user poate aprecia filme dintr-un dataset dispoinibil (fisier). Apoi pe baza filmelor recomandate sistemul recomanda (pe baza unei prioritati genre-likes) filme asemanatoare in feedul userului.
 
 Feed-ul initial (cand nu a areciat nici un film) este compus din filme aleatorii. Apo pe baza aprecierilor se vor aduaga la inceputul listei filme noi asemanatoare cu cele apreciate.
